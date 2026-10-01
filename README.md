@@ -26,7 +26,7 @@ Posteriormente, deberán obtener una serie temporal de la precipitación de la c
 
 : Tabla 1: Asignación de cuenca
 
-## El script deberá ser guardado en la carpeta `Rscripts` bajo el nombre tipo `APELLIDO.R`
+El script deberá ser guardado en la carpeta `Rscripts` bajo el nombre tipo `APELLIDO.R`
 
 ## Parte 2: Informe
 
